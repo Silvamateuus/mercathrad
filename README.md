@@ -1,5 +1,5 @@
 # Mercathard
-## Raspar preços de produtos das webpages dos supermercados
+## Raspar preços de produtos dos sites de supermercados.
 
 
 #### Links dos mercados:
