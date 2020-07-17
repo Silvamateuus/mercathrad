@@ -1,4 +1,4 @@
-# Mercathard
+# Mercathrad
 ## Raspar preços de produtos dos sites de supermercados.
 
 
